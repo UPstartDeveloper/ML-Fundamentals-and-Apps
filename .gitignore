@@ -7,6 +7,10 @@ __pycache__/
 .vscode
 .DS_Store
 
+# other assets
+*.zip
+*.pdf
+
 # Model Serialization
 models/*
 
