@@ -10,6 +10,8 @@ __pycache__/
 # other assets
 *.zip
 *.pdf
+*.data
+*.names
 
 # Model Serialization
 models/*
