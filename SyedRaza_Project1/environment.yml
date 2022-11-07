@@ -33,6 +33,8 @@ dependencies:
   - fonttools=4.25.0=pyhd3eb1b0_0
   - freetype=2.11.0=hd8bbffd_0
   - giflib=5.2.1=haf1e3a3_0
+  - gmp=6.2.1=he9d5cce_3
+  - gmpy2=2.1.2=py310hd5de756_0
   - idna=3.3=pyhd3eb1b0_0
   - intel-openmp=2021.4.0=hecd8cb5_3538
   - ipykernel=6.9.1=py310hecd8cb5_0
@@ -77,6 +79,8 @@ dependencies:
   - mkl-service=2.4.0=py310hca72f7f_0
   - mkl_fft=1.3.1=py310hf879493_0
   - mkl_random=1.2.2=py310hc081a56_0
+  - mpc=1.1.0=h6ef4df4_1
+  - mpfr=4.0.2=h9066e36_1
   - munkres=1.1.4=py_0
   - nbclassic=0.3.5=pyhd3eb1b0_0
   - nbclient=0.5.13=py310hecd8cb5_0
@@ -126,6 +130,7 @@ dependencies:
   - sqlite=3.39.2=h707629a_0
   - stack_data=0.2.0=pyhd3eb1b0_0
   - statsmodels=0.13.2=py310hca72f7f_0
+  - sympy=1.10.1=py310hecd8cb5_0
   - terminado=0.13.1=py310hecd8cb5_0
   - testpath=0.6.0=py310hecd8cb5_0
   - threadpoolctl=2.2.0=pyh0d69192_0
@@ -144,3 +149,6 @@ dependencies:
   - zeromq=4.3.4=h23ab428_0
   - zlib=1.2.12=h4dc903c_2
   - zstd=1.5.2=hcb37349_0
+  - pip:
+    - mpmath==1.2.1
+prefix: /Applications/anaconda3/envs/559
