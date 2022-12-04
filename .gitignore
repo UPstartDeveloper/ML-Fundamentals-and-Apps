@@ -16,6 +16,7 @@ __pycache__/
 *.csv
 *.png
 *.jpg
+*/Graph/*
 
 # Model Serialization
 models/*
